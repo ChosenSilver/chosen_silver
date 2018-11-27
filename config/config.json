@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/decisionsDashboard/DecisionsDashboardWebPart.js",
+      "manifest": "./src/webparts/decisionsDashboard/DecisionsDashboardWebPart.manifest.json",
+      "outputPath": "./dist/decisions-dashboard-web-part.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "DecisionsDashboardWebPartStrings": "webparts/decisionsDashboard/loc/{locale}.js"
+  }
+}

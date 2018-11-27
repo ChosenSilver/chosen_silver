@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem",
+    "version": "1.5.0",
+    "libraryName": "decisions-dashboard",
+    "libraryId": "122bdf5b-b6fd-4728-adfd-e387348659eb",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

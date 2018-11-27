@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "decisions-dashboard-client-side-solution",
+    "id": "122bdf5b-b6fd-4728-adfd-e387348659eb",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/decisions-dashboard.sppkg"
+  }
+}
